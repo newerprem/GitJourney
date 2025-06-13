@@ -2,3 +2,4 @@ I am file 1
 checking omz
 learning rebase
 learning rebase 2
+3
