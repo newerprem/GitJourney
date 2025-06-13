@@ -2,4 +2,4 @@ first commit
 added second feature
 added third feature
 added new function
-
+added test cases
