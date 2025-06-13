@@ -2,3 +2,4 @@ first commit
 added second feature
 added third feature
 added bug
+added new function
